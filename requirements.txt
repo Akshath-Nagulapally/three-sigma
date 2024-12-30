@@ -1,0 +1,12 @@
+langchain_community
+langchain-openai
+langchain-anthropic
+langchain
+langgraph
+bs4
+lumibot
+python-dotenv
+alpaca-py
+alpaca-trade-api
+timedelta
+langchain-groq
